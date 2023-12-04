@@ -1,7 +1,7 @@
-**#Full Name: Olga Karafizi**
-##Contact Information: o.karafizi@gmail.com
-###Brief Self-Introduction: I want to become a web designer with coding skills 
-####Skills: *Figma, *Photoshop, *Illustrator, *Indesign, *CSS, *HTML
++ **#Full Name: Olga Karafizi**
++ ##Contact Information: o.karafizi@gmail.com
++ ###Brief Self-Introduction: I want to become a web designer with coding skills 
++ ####Skills: *Figma, *Photoshop, *Illustrator, *Indesign, *CSS, *HTML
 ==============================================================================
 **Work Experience:** My work experience is connected with graphic and web design.
 [Портфолио проектов](https://www.behance.net/olga_karafizi)
